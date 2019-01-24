@@ -1,0 +1,2 @@
+# regrasJavascript
+treinando fazer regras
